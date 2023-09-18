@@ -13,4 +13,4 @@ Numeroi ja lisää oma github-handlesi alle:
 3. LeeviMakinen
 3. ComplexMonkeys
 5. orofi
-12. [Jeb4dev](https://github.com/jeb4dev)
+12. Jeb4dev
