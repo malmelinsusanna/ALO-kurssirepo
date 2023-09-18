@@ -12,5 +12,6 @@ Numeroi ja lisää oma github-handlesi alle:
 3. @RivRav
 3. LeeviMakinen
 3. ComplexMonkeys
-5. orofi
 12. Jeb4dev
+5. orofil
+6. enpr
