@@ -11,3 +11,4 @@
 | Ryhmä 6             | Next.js         | React-kirjasto                                              |
 | Nilsiä gäng         | Pi-Hole         | Linux-verkkotason mainos ja Internet-seurannan estosovellus |
 | Ryhmä 2    |Jitsi Meet       | Avoimen lähdekoodin "zoom"             |
+| Ryhmä 10            | TBD             | Vielä pohditaan                        |
