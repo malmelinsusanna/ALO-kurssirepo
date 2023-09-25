@@ -2,8 +2,8 @@
 
 ## Ohjelmistot
 
-| Ryhmä      | Ohjelma         | Kuvaus                                 |
-|------------|-----------------|----------------------------------------|
-| Ryhmä 1    | Ohjelma 1       | Lyhyt kuvaus ohjelmasta 1              |
-| Ryhmä 2    | Ohjelma 2       | Lyhyt kuvaus ohjelmasta 2              |
-| Ryhmä 3    | Ohjelma 3       | Lyhyt kuvaus ohjelmasta 3              |
+| Ryhmä               | Ohjelma         | Kuvaus                                 |
+|---------------------|-----------------|----------------------------------------|
+| Juvaste Fan Club    | OBS Studio      | Videotuotanto-ohjelma                  |
+| Ryhmä 2             | Ohjelma 2       | Lyhyt kuvaus ohjelmasta 2              |
+| Ryhmä 3             | Ohjelma 3       | Lyhyt kuvaus ohjelmasta 3              |
