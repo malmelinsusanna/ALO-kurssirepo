@@ -9,3 +9,4 @@
 | Ryhmä 3             | Firefox         | Nettiselain.                                    |
 | Ryhmä 5             | freeCodeCamp    | yhteisö, jossa voit oppia koodaamaan ilmaiseksi.|
 | Ryhmä 6             | Next.js         | React-kirjasto                                  |
+| git merge           | EarTrumpet      | Äänimikseri Windowsille.                        |
