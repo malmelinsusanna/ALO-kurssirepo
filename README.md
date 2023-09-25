@@ -2,8 +2,8 @@
 
 ## Ohjelmistot
 
-| Ryhmä      | Ohjelma         | Kuvaus                                 |
-|------------|-----------------|----------------------------------------|
-| Nea&Henkka |Gimp             | Kuvanmuokkaus ohjelma.                 |
-| Ryhmä 2    | Ohjelma 2       | Lyhyt kuvaus ohjelmasta 2              |
-| Ryhmä 3    | Firefox         | Nettiselain.                           |
+| Ryhmä               | Ohjelma         | Kuvaus                                 |
+|---------------------|-----------------|----------------------------------------|
+| Juvaste Fan Club    | OBS Studio      | Videotuotanto-ohjelma                  |
+| Nea&Henkka          | Gimp            | Kuvanmuokkaus ohjelma.                 |              |
+| Ryhmä 3             | Firefox         | Nettiselain.                           |
