@@ -13,3 +13,4 @@
 | Nilsiä gäng         | Pi-Hole         | Linux-verkkotason mainos ja Internet-seurannan estosovellus |
 | Ryhmä 2             | Jitsi Meet      | Avoimen lähdekoodin "zoom"                                  |
 | git merge           | EarTrumpet      | Äänimikseri Windowsille.                                    |
+| Ryhmä 7             | TlDraw          | Digitaalinen valkotaulu                                     |
