@@ -1,10 +1,10 @@
 ## Valittu Vapaan Lähdekoodin Ohjelmisto
 
 ### Ohjelma
-- **Nimi:** [Lisää ohjelman nimi]
-- **Kuvaus:** [Lyhyt kuvaus ohjelmasta]
-- **Toimintaperiaate:** [Kuvaile lyhyesti miten ohjelmisto toimii]
-- **Käyttökohteet:** [Missä tilanteissa tai organisaatioissa ohjelmistoa yleisesti käytetään]
+- **Nimi:** GIMP (GNU Image Manipulation Program)
+- **Kuvaus:** GIMP on ilmainen ja avoimen lähdekoodin kuvankäsittelyohjelma, joka tarjoaa monipuolisia työkaluja ja ominaisuuksia kuvien muokkaamiseen ja graafiseen suunnitteluun.
+- **Toimintaperiaate:** GIMP toimii tarjoamalla käyttäjille mahdollisuuden muokata kuvia erilaisilla työkaluilla, kuten harjat, suodattimet, tekstityökalut ja värikorjaimet. Käyttäjät voivat luoda, muokata ja yhdistellä kuvia monipuolisesti, säätää värejä, kirkkautta ja kontrastia, sekä tehdä monimutkaisempia kuvamanipulaatioita, kuten leikkaamista, kloonausta ja kuvan taustan poistoa.
+- **Käyttökohteet:** GIMPiä käytetään laajasti graafisen suunnittelun, valokuvien muokkauksen, kuvituksen ja digitaalisen taiteen parissa. Se soveltuu niin ammattilaisille, harrastajille kuin opiskelijoillekin, jotka tarvitsevat monipuolisia työkaluja kuvien luomiseen, muokkaamiseen ja viimeistelyyn. GIMPiä käytetään esimerkiksi mainonnan, verkkosivujen suunnittelun, julkaisujen taittamisen, valokuvagrafiikan ja pelikehityksen parissa.
 
 ### Lisenssi
 - **Lisenssi:** [Mainitse ohjelmiston käyttämä lisenssi]
