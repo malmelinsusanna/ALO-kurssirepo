@@ -7,7 +7,6 @@
 - B 16.10.2023
 - C 18.10.2023
 
-
 | Ryhmä               | Ohjelma         | Kuvaus                                                      | Esityspäivä |
 |---------------------|-----------------|-------------------------------------------------------------|-------------|
 | Juvaste Fan Club    | OBS Studio      | Videotuotanto-ohjelma                                       | |
@@ -20,4 +19,6 @@
 | git merge           | EarTrumpet      | Äänimikseri Windowsille.                                    | |
 | oujee               | Libre Office    | Avoimen lähdekoodin toimisto-ohjelma                        | |
 | Ryhmä 7             | TlDraw          | Digitaalinen valkotaulu                                     | |
-| Ryhmä 2    	      | Jitsi Meet      | Avoimen lähdekoodin "zoom"            	   	      | |
+| Ryhmä 2    	        | Jitsi Meet      | Avoimen lähdekoodin "zoom"            	   	                | |
+| Ryhmä 12            | OctoPrint       | 3D-tulostinten web-käyttöliittymä                           | |
+
