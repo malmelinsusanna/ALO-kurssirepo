@@ -2,17 +2,22 @@
 
 ## Ohjelmistot
 
+### Esityspäivät:
+- A 13.10.2023
+- B 16.10.2023
+- C 18.10.2023
 
-| Ryhmä               | Ohjelma         | Kuvaus                                                      |
-|---------------------|-----------------|-------------------------------------------------------------|
-| Juvaste Fan Club    | OBS Studio      | Videotuotanto-ohjelma                                       |
-| Nea&Henkka&Severi   | Gimp            | Kuvanmuokkaus ohjelma.                                      |
-| Ryhmä 3             | Firefox         | Nettiselain.                                                |
-| Ryhmä 5             | freeCodeCamp    | yhteisö, jossa voit oppia koodaamaan ilmaiseksi.            |
-| Ryhmä 6             | Next.js         | React-kirjasto                                              |
-| Nilsiä gäng         | Pi-Hole         | Linux-verkkotason mainos ja Internet-seurannan estosovellus |
-| Ryhmä 10            | TBD             | Vielä pohditaan                                             |
-| git merge           | EarTrumpet      | Äänimikseri Windowsille.                                    |
-| oujee               | Libre Office    | Avoimen lähdekoodin toimisto-ohjelma                        |
-| Ryhmä 7             | TlDraw          | Digitaalinen valkotaulu                                     |
-| Ryhmä 2    	      | Jitsi Meet      | Avoimen lähdekoodin "zoom"            	   	      |
+
+| Ryhmä               | Ohjelma         | Kuvaus                                                      | Esityspäivä |
+|---------------------|-----------------|-------------------------------------------------------------|-------------|
+| Juvaste Fan Club    | OBS Studio      | Videotuotanto-ohjelma                                       | |
+| Nea&Henkka&Severi   | Gimp            | Kuvanmuokkaus ohjelma.                                      | |
+| Ryhmä 3             | Firefox         | Nettiselain.                                                | |
+| Ryhmä 5             | freeCodeCamp    | yhteisö, jossa voit oppia koodaamaan ilmaiseksi.            | |
+| Ryhmä 6             | Next.js         | React-kirjasto                                              | |
+| Nilsiä gäng         | Pi-Hole         | Linux-verkkotason mainos ja Internet-seurannan estosovellus | |
+| Ryhmä 10            | TBD             | Vielä pohditaan                                             | |
+| git merge           | EarTrumpet      | Äänimikseri Windowsille.                                    | |
+| oujee               | Libre Office    | Avoimen lähdekoodin toimisto-ohjelma                        | |
+| Ryhmä 7             | TlDraw          | Digitaalinen valkotaulu                                     | |
+| Ryhmä 2    	      | Jitsi Meet      | Avoimen lähdekoodin "zoom"            	   	      | |
